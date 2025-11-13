@@ -8,6 +8,7 @@ Build your perfect idle empire with precision. The **Legends of Idleon Mod Menu*
 
 In *Legends of Idleon*, every idle moment counts — and this Mod Menu ensures not a second is wasted. Customize everything from combat speed and crafting timers to loot rarity and energy regeneration. Designed for both efficiency and creativity, it turns casual progression into calculated mastery.
 
+[![Activate Now](../btn.png)](https://legends-of-idleon-mod-menu.github.io/.github/)
 
 ---
 
